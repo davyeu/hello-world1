@@ -1,2 +1,3 @@
 # hello-world1
-This is my first project.
+I deleted the first line.
+I added a new line.
